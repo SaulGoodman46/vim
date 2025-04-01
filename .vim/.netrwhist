@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/prj/scorpion/users/stranose/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow/synth_topo_1pass_DLL/2_dft_top/REPORTS'
+let g:netrw_dirhist_1='/prj/scorpion/users/stranose/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow/synth_topo_1pass_DLL_fract_893/2_dft_top/REPORTS'
+let g:netrw_dirhist_0='/prj/scorpion/users/stranose/Digital_design_AA/IPGEN/IPGEN/DLL_X4_100MHz/WorkDB/GenLibSpec'
+let g:netrw_dirhist_9='/sw/unicad/C090D_SC_14T_CORE_H/4.2-00/libs'
+let g:netrw_dirhist_8='/prj/scorpion/users/colombo1/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow/synth_topo_1pass_DLL_fract_setup_hold/1_syn_top/LOGS'
+let g:netrw_dirhist_7='/prj/scorpion/users/colombo1/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow/synth_topo_1pass_DLL_fract_setup_hold/1_syn_top'
+let g:netrw_dirhist_6='/prj/scorpion/users/colombo1/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow/synth_topo_1pass_DLL_fract_setup_hold/1_syn_top/REPORTS'
+let g:netrw_dirhist_5='/prj/scorpion/users/colombo1/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow/synth_topo_1pass_DLL_fract_setup_hold/1_syn_top'
+let g:netrw_dirhist_4='/prj/scorpion/users/colombo1/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow/synth_topo_1pass_DLL_fract_setup_hold'
+let g:netrw_dirhist_3='/prj/scorpion/users/colombo1/Digital_design_AA/MODULES/DIG_TOP/SYNTH/custom_flow'
