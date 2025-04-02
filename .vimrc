@@ -35,6 +35,8 @@ autocmd BufEnter * silent! :lcd%:p:h
 
 au BufReadPost *.v set syntax=verilog_systemverilog
 au BufReadPost *.py set syntax=python 
+au BufReadPost Make* set syntax=make 
+au BufReadPost make* set syntax=make 
 
 set syntax=ON 
 
