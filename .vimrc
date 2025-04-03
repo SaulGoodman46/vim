@@ -52,9 +52,7 @@ set splitright
 
 noremap <C-t> :tabnew<CR>	 
 
-noremap <C-y> :vsplit .<CR>	 
-
-noremap <C-w> :q<CR>	 
+noremap <C-y> :vsplit .<CR>
 
 noremap <C-q> :qa<CR>	 
 
