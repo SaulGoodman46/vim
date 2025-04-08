@@ -17,7 +17,7 @@ set expandtab
 
 set tabstop=4 
 
-"set guifont=Roboto Mono\ Regular:h11 
+set guifont=Consolas\ Regular\ 11
 
 " Colorscheme 
 
